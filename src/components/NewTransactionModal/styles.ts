@@ -113,6 +113,16 @@ export const TransactionTypeButton = styled(
       svg {
         color: ${theme["white"]};
       }
+
+      &[type="number"] {
+        -moz-appearance: textfield;
+
+        ::-webkit-outer-spin-button,
+        ::-webkit-inner-spin-button {
+          -webkit-appearance: none;
+          margin: 0;
+        }
+      }
     }
   `}
 `;
