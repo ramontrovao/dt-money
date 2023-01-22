@@ -1,20 +1,44 @@
 {
-    "transactions": [
+  "transactions": [
     {
-        "id": 1,
-        "description": "Desenvolvimento de site",
-        "type": "income",
-        "category": "Venda",
-        "price": 14000,
-        "createdAt": "2023-01-21T14:41:01.107Z"
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-01-21T14:41:01.107Z"
     },
     {
-        "id": 2,
-        "description": "Hambúrguer",
-        "type": "outcome",
-        "category": "Alimentação",
-        "price": 50,
-        "createdAt": "2023-01-21T14:40:01.107Z"
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-01-21T14:40:01.107Z"
+    },
+    {
+      "description": "Jogar",
+      "price": 12000,
+      "category": "Lar",
+      "type": "outcome",
+      "createdAt": "2023-01-22T19:01:28.404Z",
+      "id": 3
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-22T19:12:35.920Z",
+      "id": 4
+    },
+    {
+      "description": "Ovo",
+      "price": 2,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-22T19:14:08.012Z",
+      "id": 5
     }
- ]
+  ]
 }
