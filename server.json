@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2023-01-22T19:14:08.012Z",
       "id": 5
+    },
+    {
+      "description": "Piercing",
+      "price": 2000,
+      "category": "Estética",
+      "type": "outcome",
+      "createdAt": "2023-01-24T00:40:25.430Z",
+      "id": 6
     }
   ]
 }
